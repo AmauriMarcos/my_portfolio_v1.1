@@ -1,0 +1,78 @@
+#portfolio{
+   
+    text-align: center;
+}
+
+.carousel-item{
+    padding: 3% 15%;
+}
+.portfolio-title{
+    font-size: 2.80rem;
+    letter-spacing: 1.5px;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 900;
+    text-align: left;
+    padding: 3% 15%;
+}
+
+.portfolio-for-image h3{
+    font-family: 'Nunito', sans-serif;
+    color: #000;
+    text-align: center;
+    font-weight: bold;
+    font-size: 2.5rem;
+}
+
+.portfolio-for-image ul{
+    font-size: 1rem;
+    padding: 0 0 0 10%;
+    text-align: left;
+    float: left;
+    
+}
+
+.portfolio-for-image li{
+    font-family: 'Nunito', sans-serif;
+    list-style: none;
+    color:   #27c985;
+    font-weight: bold;
+    font-size: 1.3rem;
+    line-height: 1.5;
+   
+}
+
+.portfolio-for-image p{
+    padding: 5%;
+    font-family: 'Nunito', sans-serif;
+    font-size: 1.5rem;
+    line-height: 1.5;
+}
+
+.carousel-control-next-icon:after
+{
+  content: '>';
+  font-size: 35px;
+  color: black;
+}
+
+.carousel-control-prev-icon:after {
+  content: '<';
+  font-size: 35px;
+  color: black;
+}
+
+hr {
+      
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+  
+    
+}
+
+.square{
+    width: 600px;
+    height: 330px;
+    margin-bottom: 5%;
+}
+

@@ -1,0 +1,63 @@
+.experience-side{
+   
+}
+
+.my-experience-content{
+    position: relative;
+    top: 15px;
+}
+
+.experience-title{
+    font-size: 2.80rem;
+    letter-spacing: 1.5px;
+    margin-top: 30px;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 900;
+}
+
+.experience-content{
+    line-height: 2;
+    font-size: 1rem;
+    margin-top: 35px;
+}
+
+.experience-icon{
+    color: #006400;
+}
+
+.experience-button{
+    margin-top: 5%;
+    text-align: center;  
+}
+
+
+.rectangle-side{
+
+    height: 450px;
+
+}
+
+.rectangle{
+    background-color:#33e57e;
+    height: 120px;
+    margin: 10px auto;
+    border-radius: 10px;
+    margin-left: 25px;
+    box-shadow:5px 9px 5px rgba(0, 0, 0, 0.2);
+    position: relative;
+}
+
+.my-rec-content{
+
+}
+
+.rectangle-title{
+    font-weight: bold;
+    font-size: 1.25rem;
+    color: #fff;
+}
+
+.rectangle-content{
+    margin-top:35px;
+    color: #fff;
+}

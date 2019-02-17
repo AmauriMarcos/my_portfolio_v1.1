@@ -1,0 +1,54 @@
+#footer{
+  padding: 3% 15%;
+  background: #11998e;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #38ef7d, #11998e);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #38ef7d, #11998e); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+  
+  border-top-left-radius: 75% 60%;
+  border-top-right-radius:50% 20%;
+}
+ 
+ .footer-content{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.subtitle-footer{
+    margin: 30px 0 50px 0;
+    color:#fff;
+    
+}
+
+.title-footer{
+  line-height: 1.4;
+  font-size: 4.25rem;
+  font-family: 'Montserrat-black', sans-serif;
+  font-weight: 900;
+  color:#fff;
+}
+
+.hr-final{
+      margin-top: 80px;
+}
+
+
+
+.footer-group a{
+  color: #fff !important;
+  text-decoration: none;
+  font-weight: bold;
+}
+.footer-link{
+  padding: 0;
+  line-height: 2;
+  color: fff;
+  
+}
+
+.footer-copyright{
+  text-align: center;
+  color: #000;
+  font-size: 14px;
+  margin-top: 50px;
+}

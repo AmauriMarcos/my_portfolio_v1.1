@@ -1,0 +1,104 @@
+#title{
+    background: #11998e;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #38ef7d, #11998e);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #38ef7d, #11998e); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+    border-bottom-left-radius: 50% 20%;
+    border-bottom-right-radius: 75% 60%;
+
+}
+
+/* Navbar */
+
+
+a{
+    color: #fff !important;
+}
+.navbar{
+   
+    padding: 0 0 4.5rem ;
+}
+
+.nav-item{
+    padding: 0 18px;
+}
+
+.nav-link{
+    font-size: 1.2rem;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+
+.fa-connectdevelop{
+    font-size: 60px;
+    color: #fff;
+    margin-top: 20px;
+}
+
+/* Header */
+
+.container-fluid{
+    padding: 3% 10%;
+}
+
+h1{
+    max-width: 100%;
+    width: 100%;
+    line-height: 1.5;
+    font-size: 3.70rem;
+    font-family: 'Nunito', sans-serif;
+    font-weight: bold;
+    color: #fff;
+}
+
+h3{
+    position: relative;
+    top: 15px;
+    left: 4px;
+}
+
+h5{
+    color:#fff;
+}
+
+
+.my-button{
+    margin: 5% 3% 5% 0;
+    
+}
+
+.btn-light {
+    color: #38ef7d;
+}
+.content{
+    margin-top: 100px;
+}
+
+.header{
+    margin-top: 100px;
+}
+
+.header-image{
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    opacity: 0.3;
+    
+}
+
+.avatar{
+    max-width: 100%;
+    width: 100%;
+    height: auto;
+    position: relative;
+    margin: 0 auto;
+    top: 50%;
+    transform: translateY(-50%);
+    padding: 0 15px;
+}
+
+
+.container-image{
+    padding: 0;
+}
